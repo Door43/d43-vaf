@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[vaf:home|Door43 (vaf)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-vaf|d43-vaf repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-vaf/archive/master.zip|d43-vaf.zip]]
+
+**Recent Changes**
+{{changes>ns = vaf}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/vaf|Ethnologue data]]
+
